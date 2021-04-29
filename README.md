@@ -24,10 +24,13 @@ All community members are expected to:
 * respect and treat others fairly, regardless of race ancestry, place of origin, colour, ethnic origin, citizenship, religion, gender, sexual orientation, age or disability
 * respect the rights of others
 
+Additionally, if you are a reporter or a member of the press:
+
+* you must have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
+* if you want to interview someone about something, you need to ask permission to interview them and inform them about where their comments may end up being published prior to the start of the interview. 
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
 
-For further information, you are invited to take a look at the documents on the MacAdmins.org GitHub page, they include contact information for administrators, dispute resolution steps and an etiquette guide. This GitHub page is also open to any pull requests and suggestions for change.
 
 ## Long Version:
 
@@ -35,7 +38,6 @@ For further information, you are invited to take a look at the documents on the 
 ### Policies
 
 The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
-
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team.
 
@@ -52,7 +54,7 @@ Harassment includes, but is not limited to:
 * Purposeful psychological manipulation of any kind
 * Spamming of GIFs
 * Advocating for, or encouraging, any of the above behaviour
-* Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner
+* Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner ([additional vendor guidelines](https://github.com/macadminsdotorg/codeofconduct/blob/master/Vendor_Guidelines.md))
 
 
 ### Enforcement
@@ -74,8 +76,10 @@ The MacAdmins Slack Team recognizes that there are many reasons speaking directl
 
 The Administrative Team will handle all reports with discretion.
 
-Please see this document [Dispute Resolution](link to GitHub page) for full details on resolution steps.
-
 If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
 If you have concerns regarding this Slack team, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
+
+### Contributions and Modifications
+
+Anyone may recommend modifications to this Code of Conduct by opening a pull request [here](https://github.com/macadminsdotorg/codeofconduct). The request will be reviewed by the admin team before being approved and merged.
